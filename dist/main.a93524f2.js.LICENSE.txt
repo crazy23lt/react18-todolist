@@ -1,0 +1,199 @@
+/*! !!../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!../../node_modules/postcss-loader/dist/cjs.js!../../node_modules/sass-loader/dist/cjs.js!./todos.scss */
+
+/*! !!../css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!../postcss-loader/dist/cjs.js!../sass-loader/dist/cjs.js!./normalize.css */
+
+/*! !../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/insertBySelector.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !../../node_modules/style-loader/dist/runtime/styleTagTransform.js */
+
+/*! !../style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../style-loader/dist/runtime/insertBySelector.js */
+
+/*! !../style-loader/dist/runtime/insertStyleElement.js */
+
+/*! !../style-loader/dist/runtime/setAttributesWithoutAttributes.js */
+
+/*! !../style-loader/dist/runtime/styleDomAPI.js */
+
+/*! !../style-loader/dist/runtime/styleTagTransform.js */
+
+/*! ../../context */
+
+/*! ../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */
+
+/*! ../../node_modules/css-loader/dist/runtime/sourceMaps.js */
+
+/*! ../../utils */
+
+/*! ../css-loader/dist/runtime/api.js */
+
+/*! ../css-loader/dist/runtime/sourceMaps.js */
+
+/*! ./App */
+
+/*! ./assets/todos.scss */
+
+/*! ./cjs/react-dom.development.js */
+
+/*! ./cjs/react.development.js */
+
+/*! ./cjs/scheduler.development.js */
+
+/*! ./components/layout/Content */
+
+/*! ./components/layout/Footer */
+
+/*! ./components/layout/Header */
+
+/*! ./context */
+
+/*! data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E */
+
+/*! data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E */
+
+/*! normalize.css */
+
+/*! react */
+
+/*! react-dom */
+
+/*! react-dom/client */
+
+/*! scheduler */
+
+/*!*********************!*\
+  !*** ./src/App.jsx ***!
+  \*********************/
+
+/*!**********************!*\
+  !*** ./src/utils.js ***!
+  \**********************/
+
+/*!******************************!*\
+  !*** ./src/context/index.js ***!
+  \******************************/
+
+/*!*******************************!*\
+  !*** ./src/assets/todos.scss ***!
+  \*******************************/
+
+/*!*************************************!*\
+  !*** ./node_modules/react/index.js ***!
+  \*************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/react-dom/index.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/scheduler/index.js ***!
+  \*****************************************/
+
+/*!******************************************!*\
+  !*** ./node_modules/react-dom/client.js ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./src/components/layout/Footer.jsx ***!
+  \******************************************/
+
+/*!******************************************!*\
+  !*** ./src/components/layout/Header.jsx ***!
+  \******************************************/
+
+/*!*******************************************!*\
+  !*** ./src/components/layout/Content.jsx ***!
+  \*******************************************/
+
+/*!**************************************************!*\
+  !*** ./node_modules/normalize.css/normalize.css ***!
+  \**************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/react/cjs/react.development.js ***!
+  \*****************************************************/
+
+/*!********************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
+  \********************************************************/
+
+/*!************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/sourceMaps.js ***!
+  \************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+  \***************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+  \**********************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+
+/*!**********************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+  \**********************************************************************************/
+
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/assets/todos.scss ***!
+  \**********************************************************************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./node_modules/normalize.css/normalize.css ***!
+  \*****************************************************************************************************************************************************************************************************/
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
